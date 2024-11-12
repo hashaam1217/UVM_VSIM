@@ -12,10 +12,4 @@
 # //  is prohibited from disclosure under the Trade Secrets Act,
 # //  18 U.S.C. Section 1905.
 # //
-# Loading project UVM_SIM
-vlog_uvm ./UVM.sv
-# invalid command name "vlog_uvm"
-# Break key hit
-# Break key hit
-# Break key hit
-# Break key hit
+# do ~/Documents/code/UVM_VSIM/custom_procs.tcl
