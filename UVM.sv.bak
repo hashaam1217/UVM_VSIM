@@ -1,9 +1,0 @@
-`include "uvm_pkg.sv" 
-module UVM; 
-import uvm_pkg::*;  
-`include "uvm_macros.svh" 
-initial begin  
- `uvm_info("info1","Hello UVM!",UVM_LOW) 
-
-end  
-endmodule: UVM 
