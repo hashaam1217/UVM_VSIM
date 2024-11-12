@@ -1,0 +1,5 @@
+/home/hollowknight/Documents/code/UVM_VSIM/UVM.sv {0 {vlog -work work -vopt -sv -stats=none /home/hollowknight/Documents/code/UVM_VSIM/UVM.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+** Error: /home/hollowknight/Documents/code/UVM_VSIM/UVM.sv(1): Cannot open `include file "uvm_pkg.sv".
+
+} {3.0 4.0} {}}
